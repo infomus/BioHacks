@@ -507,6 +507,6 @@ int main()
 		int alpha = isAlpha(protein);
 		output2(protein);
 	}
-			
+		
 }
 
